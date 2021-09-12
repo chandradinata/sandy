@@ -1,6 +1,6 @@
 {
-    "theme_color": "#00000",
-    "background_color": "#ffffff",
+    "theme_color": "#fff",
+    "background_color": "#fff",
     "display": "standalone",
     "prefer_related_applications": false,
     "start_url": "https://www.chandradinata.com",
